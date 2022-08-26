@@ -5,7 +5,7 @@
     <classes>
       <class name="com.juaracoding.posttest21.TestCRUD">
         <methods>
-          <include name="testPost"/>
+          <include name="testPatch"/>
         </methods>
       </class> <!-- com.juaracoding.posttest21.TestCRUD -->
     </classes>
